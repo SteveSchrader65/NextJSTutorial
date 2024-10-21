@@ -1,3 +1,9 @@
+---
+title: 'A markdown sample'
+date: '2024-10-21'
+tags: ['nextJS','DaveGray','sample']
+---
+
 An h1 header
 ============
 
